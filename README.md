@@ -29,3 +29,8 @@ Going down..8..7..6..5..Ding!
 fireAlarm ─             This method prints a “danger” message and then simulates going to the first floor. Note that I’m assuming this is a high tech fire alarm that is programmed to force the elevator to go to the first floor! See the sample session below for the format of the “danger” message.
 
 Quit-                  This method is to exit from the Elevator.
+
+
+
+
+Done
