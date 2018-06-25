@@ -31,6 +31,7 @@ fireAlarm ─             This method prints a “danger” message and then sim
 Quit-                  This method is to exit from the Elevator.
 
 
+The source code is in: Elevator/src/elevator/.
 
 
 Done
